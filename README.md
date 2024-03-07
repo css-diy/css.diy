@@ -1,2 +1,2 @@
-# css.foo
+# css.diy
 All things CSS
